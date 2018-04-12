@@ -15,6 +15,6 @@ body{
 <body>
 <h1><center>DE JESUS DIVINA</h1></center>
 <p><center><a href="family.php" target="family">FAMILY</a>
-|<a href="friend.html" target="family">FRIENDS</a>
+|<a href="friend.php" target="family">FRIENDS</a>
 </body>
 </html>
