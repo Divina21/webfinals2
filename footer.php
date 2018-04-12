@@ -6,16 +6,17 @@ body{
     font-family:verdana,arial,san-serif;
     font-size:10pt;
 	margin:30px;
-    background-color:LIGHTGREEN;
+    background-color:#fff8DC;
+	color:Indigo;
    }
-
+a{ 
+   color:Indigo;
+   }
 </style>
 </head>
 <body>
-<h1>MY FAMILY</h1>
-<p><a href="father.php" target="content">FATHER Info</a></p>
-<p><a href="mother.php" target="content">MOTHER Info</a></p>
-<p><a href="sister.php" target="content">My Sister's Info</a></p>
-<p><a href="brother.php" target="content">My Brother's Info</a></p>
+<h2><center>DIVINA DE JESUS</h2></center>
+<p><center><a href="family.php" target="family">FAMILY</a>
+|<a href="friend.php" target="family">FRIENDS</a></p></center>
 </body>
 </html>
