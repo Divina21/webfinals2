@@ -13,7 +13,7 @@ body{
 <body>
 <h1><center>DANIEL DELFIN</h1></center>
 <center><img src="daneilP.jpg" height="200" width="200"></center>
-<p><a href="content.html" target="content">HOME</a></p>
+<p><a href="content.php" target="content">HOME</a></p>
 <h1><center>INFORMATION</h1></center>
 <p><front = 'Georgia'><b>First Name:</b>DANIEL</p>
 <p><front = 'Georgia'><b>Middle Name:</b>ABALLAR</p>
