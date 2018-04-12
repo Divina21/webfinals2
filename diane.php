@@ -12,7 +12,8 @@ body{
 </head>
 <body>
 <h1>DIANE DE JESUS</h1>
-<center><img src="yhanP.jpg" target="content">HOME</a></p>
+<center><img src="yhanP.jpg" height="200" width="200"></center>
+<p><a href="content.php" target="content">HOME</a></p   
 <h1><center>INFORMATION</h1></center>
 <p><front = 'Georgia'><b>First Name:</b>DIANE</p>
 <p><front = 'Georgia'><b>Middle Name:</b>DELFIN</p>
